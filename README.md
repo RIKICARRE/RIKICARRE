@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**RIKICARRE/RIKICARRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ricardo Carreño Mariño, un apasionado desarrollador de software 🚀 con experiencia en:
 
-Here are some ideas to get you started:
+- Desarrollo web 🕸️ (HTML, CSS, JavaScript)
+- Backend ⚙️ (Node.js, Python, Java)
+- Bases de datos 🗃️ (MySQL)
+- Desarrollo móvil 📱 (React Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Mis estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RIKICARRE&show_icons=true&theme=radical)
+
+## 🌟 Proyectos destacados
+- _Coming soon_
+
+## 🌐 Encuéntrame en:
+- _Coming soon_
