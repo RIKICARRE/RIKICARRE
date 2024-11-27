@@ -14,4 +14,4 @@ Soy Ricardo Carreño Mariño, un apasionado desarrollador de software 🚀 con e
 - _Coming soon_
 
 ## 🌐 Encuéntrame en:
-- _Coming soon_
+- ![🛜LinkedIn](www.linkedin.com/in/ricardo-carreño-939b78338)
