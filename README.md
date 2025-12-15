@@ -1,17 +1,158 @@
-# ¡Hola! 👋
+<div align="center">
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Ricardo%20Carre%C3%B1o%20Mari%C3%B1o&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20Focused%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&v=2"
+    alt="header"
+/>
 
-Soy Ricardo Carreño Mariño, un apasionado desarrollador de software 🚀 con experiencia en:
+<br/>
 
-- Desarrollo web 🕸️ (HTML, CSS, JavaScript)
-- Backend ⚙️ (Node.js, Python, Java)
-- Bases de datos 🗃️ (MySQL)
-- Desarrollo móvil 📱 (React Native)
+<a href="https://www.linkedin.com/in/ricardo-carreno-939b78338">
+  <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Carre%C3%B1o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://rikicm.me">
+  <img src="https://img.shields.io/badge/Portfolio-rikicm.me-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:ricardocarremar@icloud.com">
+  <img src="https://img.shields.io/badge/Email-ricardocarremar%40icloud.com-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 📈 Mis estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RIKICARRE&show_icons=true&theme=radical)
+<br/>
 
-## 🌟 Proyectos destacados
-- _Coming soon_
+<a href="https://rxresu.me/rikicarre/cv">
+  <img src="https://img.shields.io/badge/CV-English-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+<a href="https://rxresu.me/rikicarre/cv-spanish">
+  <img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 
-## 🌐 Encuéntrame en:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-carreño-939b78338)
+<br/><br/>
+
+**Open to work** — Junior/Graduate roles, internships, or any opportunity that helps me grow professionally (especially aligned with frontend + security).
+
+</div>
+
+---
+
+## 👋 About me
+
+- 🧑‍💻 Software Engineer with a **frontend focus** and a strong interest in **security**.
+- 🚀 I enjoy building real products, polishing UX details, and keeping projects maintainable with good practices.
+- 🧪 Quality-minded: testing, CI/CD, and code health (e.g., Sonar).
+- ☁️ Currently learning **AWS Cloud Practitioner Essentials** and exploring **cybersecurity** training next.
+- 🎾 Off-screen: **pádel**, **videogames**, and I’m always following AI + hardware news (new models, GPUs/CPUs…).
+
+> Fun fact: I got into Computer Engineering because I loved tinkering with tech… and ended up loving programming too 😄
+
+---
+
+## 🧰 Tech Stack (toolbox)
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0A66C2?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2F5D9B?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### Frameworks & UI
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Django-0B3B2E?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+### DevOps / Cloud
+<img src="https://img.shields.io/badge/Docker-0A66C2?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-0A66C2?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20(Learning)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-0B5FA5?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-0C4A6E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+### Testing & Quality
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-DC2626?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-2E7D32?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-0B5FA5?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarCloud-0B5FA5?style=for-the-badge&logo=sonarcloud&logoColor=white"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F4511E?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ Portfolio (Web)
+- 🔗 Repo: https://github.com/RIKICARRE/portfolio_v2  
+- 🌐 Live: https://rikicm.me  
+- 🧩 Built with **Vite + TypeScript + CSS**
+- 🎯 Goal: a clean, professional website to showcase projects and skills.
+
+### 🎓 ReDe (TFG)
+- 🔗 Repo: https://github.com/RIKICARRE/ReDe_TFG  
+- 🧩 **Python + Django**
+- 🧠 My focus: refactors + improvements + (especially) documentation for the final degree project.
+
+### 🗺️ MapYourWorld (Startup-style university project)
+- 🔗 Repo: https://github.com/ISPP-Grupo-7/MapYourWorld  
+- 🧩 **TypeScript + JavaScript**
+- 🤝 Team project with real “product” workflow: documentation, building the app, and pitching presentations.
+
+### 🧪 UVL HUB (Open Source + CI/CD)
+- 🔗 Repo: https://github.com/ch0cohub/choco-hub-1  
+- 🧩 Fork of a university app for downloading certified/validated scientific datasets
+- ✅ Focus: chosen enhancements + **open-source practices**, CI/CD, and quality checks.
+
+> If you want, we can turn this section into **project cards** with screenshots and 2–3 bullet “highlights” per repo (very recruiter-friendly).
+
+---
+
+## 📚 What I’m learning now
+
+- ☁️ **AWS Cloud Practitioner Essentials**
+- 🔐 Starting a **cybersecurity** learning path (pending admission to a program from Junta de Extremadura)
+
+---
+
+## 📈 GitHub Stats (clean view)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RIKICARRE&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=9CA3AF&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKICARRE&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=9CA3AF" />
+
+</div>
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: https://www.linkedin.com/in/ricardo-carreno-939b78338  
+- Portfolio: https://rikicm.me  
+- Email: ricardocarremar@icloud.com  
+- CV (EN): https://rxresu.me/rikicarre/cv  
+- CV (ES): https://rxresu.me/rikicarre/cv-spanish  
+
+---
+
+<div align="center">
+
+🧠 *Professional, but human.*  
+🎾 *Padel + Gaming + AI/HW nerd vibes.*
+
+</div>
