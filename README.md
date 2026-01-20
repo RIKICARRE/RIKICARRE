@@ -118,13 +118,12 @@
 - 🧩 Fork of a university app for downloading certified/validated scientific datasets
 - ✅ Focus: chosen enhancements + **open-source practices**, CI/CD, and quality checks.
 
-> If you want, we can turn this section into **project cards** with screenshots and 2–3 bullet “highlights” per repo (very recruiter-friendly).
-
 ---
 
 ## 📚 What I’m learning now
 
 - ☁️ **AWS Cloud Practitioner Essentials**
+- 🔒 **CISCO Networking Academy** Introduction to Cybersecurity
 - 🔐 Starting a **cybersecurity** learning path (pending admission to a program from Junta de Extremadura)
 
 ---
