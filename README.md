@@ -1,12 +1,12 @@
 <div align="center">
 <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Ricardo%20Carre%C3%B1o%20Mari%C3%B1o&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20%E2%80%A2%20Frontend%20Focused&descAlignY=58&v=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Ricardo%20Carre%C3%B1o%20Mari%C3%B1o&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20Software%20Development%20%26%20Application%20Security%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20Java%20%7C%20Cybersecurity-Oriented&descSize=17&descAlignY=58&v=2"
     alt="header"
 />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ricardo-carreno-939b78338">
+<a href="https://www.linkedin.com/in/ricardo-carreno-marino">
   <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Carre%C3%B1o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://rikicm.dev">
@@ -35,11 +35,10 @@
 
 ## 👋 About me
 
-- 🧑‍💻 Software Engineer with a **frontend focus**, now steering my career towards **cybersecurity**.
+- 🧑‍💻 Software Engineer focused on **software development and application security**, working mainly with **Python, Django and Java**, with solid frontend experience.
+- 🔐 Currently studying the **Master's in Cybersecurity at UNIR**, with the goal of building secure software from the start.
 - 🚀 I enjoy building real products, polishing UX details, and keeping projects maintainable with good practices.
-- 🧪 Quality-minded: testing, CI/CD, and code health (e.g., Sonar).
-- 🔐 Currently doing a **master's degree** with a cybersecurity focus.
-- ☁️ Also learning **AWS Cloud Practitioner Essentials**.
+- 🧪 Quality-minded: testing, CI/CD, static analysis (CodeQL, Sonar) and dependency hygiene.
 - 🎾 Off-screen: **pádel**, **videogames**, and I’m always following AI + hardware news (new models, GPUs/CPUs…).
 
 > Fun fact: I got into Computer Engineering because I loved tinkering with tech… and ended up loving programming too 😄
@@ -66,17 +65,18 @@
 <img src="https://img.shields.io/badge/Django-0B3B2E?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-1B5E20?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-0D0F1A?style=for-the-badge&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 ### DevOps / Cloud
 <img src="https://img.shields.io/badge/Docker-0A66C2?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker%20Compose-0A66C2?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20(Learning)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-0B5FA5?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-0C4A6E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-0F3D2E?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 
 ### Testing & Quality
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
@@ -122,11 +122,9 @@
 
 ---
 
-## 📚 What I’m learning now
+## 📚 What I’m studying now
 
-- ☁️ **AWS Cloud Practitioner Essentials**
-- 🔒 **CISCO Networking Academy** Introduction to Cybersecurity
-- 🔐 **Master's degree** with a cybersecurity focus (in progress)
+- 🔐 **Master's in Cybersecurity** at UNIR (in progress)
 
 ---
 
@@ -143,7 +141,7 @@
 
 ## 🤝 Let’s connect
 
-- LinkedIn: https://www.linkedin.com/in/ricardo-carreno-939b78338  
+- LinkedIn: https://www.linkedin.com/in/ricardo-carreno-marino  
 - Portfolio: https://rikicm.dev  
 - Email: ricardocarremar@icloud.com  
 - CV (EN): https://rxresu.me/rikicarre/cv  
@@ -157,4 +155,5 @@
 🎾 *Padel + Gaming + AI/HW nerd vibes.*
 
 </div>
+
 
