@@ -1,6 +1,6 @@
 <div align="center">
 <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Ricardo%20Carre%C3%B1o%20Mari%C3%B1o&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20Focused%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&v=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Ricardo%20Carre%C3%B1o%20Mari%C3%B1o&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cybersecurity%20%E2%80%A2%20Frontend%20Focused&descAlignY=58&v=2"
     alt="header"
 />
 
@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/ricardo-carreno-939b78338">
   <img src="https://img.shields.io/badge/LinkedIn-Ricardo%20Carre%C3%B1o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://rikicm.me">
-  <img src="https://img.shields.io/badge/Portfolio-rikicm.me-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://rikicm.dev">
+  <img src="https://img.shields.io/badge/Portfolio-rikicm.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:ricardocarremar@icloud.com">
   <img src="https://img.shields.io/badge/Email-ricardocarremar%40icloud.com-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-**Open to work** — Junior/Graduate roles, internships, or any opportunity that helps me grow professionally (especially aligned with frontend + security).
+**Open to work** — Junior/Graduate roles, internships, or any opportunity that helps me grow professionally (especially aligned with cybersecurity + frontend).
 
 </div>
 
@@ -35,10 +35,11 @@
 
 ## 👋 About me
 
-- 🧑‍💻 Software Engineer with a **frontend focus** and a strong interest in **security**.
+- 🧑‍💻 Software Engineer with a **frontend focus**, now steering my career towards **cybersecurity**.
 - 🚀 I enjoy building real products, polishing UX details, and keeping projects maintainable with good practices.
 - 🧪 Quality-minded: testing, CI/CD, and code health (e.g., Sonar).
-- ☁️ Currently learning **AWS Cloud Practitioner Essentials** and exploring **cybersecurity** training next.
+- 🔐 Currently doing a **master's degree** with a cybersecurity focus.
+- ☁️ Also learning **AWS Cloud Practitioner Essentials**.
 - 🎾 Off-screen: **pádel**, **videogames**, and I’m always following AI + hardware news (new models, GPUs/CPUs…).
 
 > Fun fact: I got into Computer Engineering because I loved tinkering with tech… and ended up loving programming too 😄
@@ -98,10 +99,11 @@
 ## 🚀 Featured Projects
 
 ### ⭐ Portfolio (Web)
-- 🔗 Repo: https://github.com/RIKICARRE/portfolio_v2  
-- 🌐 Live: https://rikicm.me  
-- 🧩 Built with **Vite + TypeScript + CSS**
-- 🎯 Goal: a clean, professional website to showcase projects and skills.
+- 🔗 Repo: https://github.com/RIKICARRE/portfolio  
+- 🌐 Live: https://rikicm.dev (ES) · https://rikicm.dev/en/ (EN)  
+- 🧩 Built with **Astro + TypeScript + CSS**, deployed on **Netlify**
+- 📺 A bilingual green-phosphor **VHS/CRT monitor**: a data packet goes down the TCP/IP stack as you scroll, plus a hidden terminal and opt-in sound.
+- ✅ CI, **CodeQL**, dependency review and Dependabot on every change.
 
 ### 🎓 ReDe (TFG)
 - 🔗 Repo: https://github.com/RIKICARRE/ReDe_TFG  
@@ -124,7 +126,7 @@
 
 - ☁️ **AWS Cloud Practitioner Essentials**
 - 🔒 **CISCO Networking Academy** Introduction to Cybersecurity
-- 🔐 Starting a **cybersecurity** learning path (pending admission to a program from Junta de Extremadura)
+- 🔐 **Master's degree** with a cybersecurity focus (in progress)
 
 ---
 
@@ -142,7 +144,7 @@
 ## 🤝 Let’s connect
 
 - LinkedIn: https://www.linkedin.com/in/ricardo-carreno-939b78338  
-- Portfolio: https://rikicm.me  
+- Portfolio: https://rikicm.dev  
 - Email: ricardocarremar@icloud.com  
 - CV (EN): https://rxresu.me/rikicarre/cv  
 - CV (ES): https://rxresu.me/rikicarre/cv-spanish  
@@ -155,3 +157,4 @@
 🎾 *Padel + Gaming + AI/HW nerd vibes.*
 
 </div>
+
